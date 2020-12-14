@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "wpdbfix": {
+      "commandName": "Project",
+      "commandLineArgs": "c:\\users\\dfusi\\desktop\\rep.txt c:\\users\\dfusi\\desktop\\db.sql c:\\users\\dfusi\\desktop\\dbr.sql"
+    }
+  }
+}
